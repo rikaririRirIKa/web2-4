@@ -9,7 +9,7 @@
    padding:40px 80px;
    border:green 1px solid;
    background-color:white;
-   
+ }
    .photo{
      float: left;
      margin-right:30px;
@@ -60,5 +60,4 @@
    
    th,td{
     border:1px solid lightcoral;
-   }
    }
